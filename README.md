@@ -5,7 +5,7 @@ Team summa
 Ogunyemi Jeremiah (ogunyemijeremiah@gmail.com)
 Oyelekan Oluwabukunmi (bukunmiadewale3@gmail.com)
 
-#Section:
+Section:
 Fintech
 
 Problem :
